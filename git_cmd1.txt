@@ -1,0 +1,63 @@
+ls
+  999  clear
+ 1000  git status
+ 1001  rm testing.py
+ 1002  clear
+ 1003  git status
+ 1004  git inti
+ 1005  git status
+ 1006  clear
+ 1007  ls
+ 1008  python testing.py
+ 1009  ls
+ 1010  ls -l
+ 1011  cd gitpractice
+ 1012  ls
+ 1013  git init
+ 1014  ls
+ 1015  touch pro.py
+ 1016  clar
+ 1017  clear
+ 1018  ls
+ 1019  ls -l
+ 1020  git init
+ 1021  ls -a
+ 1022  git init
+ 1023  git status
+ 1024  touch testing.py
+ 1025  git status
+ 1026  ls
+ 1027  git add testing.py
+ 1028  clear
+ 1029  git status
+ 1030  git init pro.py
+ 1031  rm pro.py
+ 1032  clear
+ 1033  git status
+ 1034  git rm --cached
+ 1035  clear
+ 1036  git status
+ 1037  git rm --cached
+ 1038  clear
+ 1039  git status
+ 1040  git em --cached testing.py
+ 1041  git rm --cached testing.py
+ 1042  git status
+ 1043  clear
+ 1044  git add testing.py
+ 1045  ls
+ 1046  git status
+ 1047  git commit -m "added testing file "
+ 1048  git config --global user.name "Tushar shivade"
+ 1049  git config --global user.email "tusharshivade122@gmail.com"
+ 1050  clear
+ 1051  git commit -m "added testing file"
+ 1052  git status
+ 1053  rm testing.py
+ 1054  ls
+ 1055  git testing.py
+ 1056  git status
+ 1057  git restore testing.py
+ 1058  clear
+ 1059  git status
+ 1060  history
