@@ -61,3 +61,5 @@ ls
  1058  clear
  1059  git status
  1060  history
+
+this is some new changes
