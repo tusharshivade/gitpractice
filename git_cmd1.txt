@@ -65,4 +65,29 @@
    git remote -v
    git push origin master
    clear
-   ls 
+   ls
+
+     tushar
+
+   git push -u origin master -f
+   git remote remove origin
+   clear
+   git rebase -i HEAD~6
+   git rebase --continue
+   git status
+   git rm --cached git_cmd1.txt.save
+   git status
+   git rebase --continue
+   clear
+   git rebase --edit-todo
+   git rebase --continue
+   git push origin master
+   git  remote add origin https://github.com/tusharshivade/gitpractice
+   git push origin master
+   git push -u origin master
+   CLEAR
+   git pull
+   git pull master
+   git pull origin master
+   git push -u origin master
+   clear.  
