@@ -1,0 +1,1 @@
+this is merge file push to staging and both the changes connect to master file

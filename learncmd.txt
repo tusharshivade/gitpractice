@@ -1,4 +1,0 @@
-code to github // git push
-github to code  // git pull origin master 
-
-Branches main & master // learn

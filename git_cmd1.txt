@@ -91,3 +91,11 @@
    git pull origin master
    git push -u origin master
    clear.  
+git pull origin developer
+   git add .
+   git commit -m "update portfolio"
+   git push origin developer
+   git branc
+   git branch
+   git switch
+   git switch master
