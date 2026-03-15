@@ -2,100 +2,44 @@
   clear
   git status
   rm testing.py
-  clear
-  git status
-  git intiit status
-  clear
-  ls
-   python testing.py
-   ls -l
+  python testing.py
   cd gitpractice
-  ls
   git init
-  ls
   touch pro.py
-  clar
-  clear
-  ls
-  ls -l
-  git init
-  ls -a
-  git init
-  git status
   touch testing.py
-  git status
-  ls
   git add testing.py
-  clear
-  git status
   git init pro.py
-  rm pro.py
-  clear
-  git status
-  git rm --cached
-  clear
-  git status
-  git rm --cached
-  clear
-  git status
-  git em --cached testing.py
-  git rm --cached testing.py
-  git status
-  clear
+  git rm --cache
   git add testing.py
-  ls
   git status
    git commit -m "added testing file "
    git config --global user.name "Tushar shivade"
    git config --global user.email "tusharshivade122@gmail.com"
-   clear
    git commit -m "added testing file"
-   git status
-   rm testing.py
-   ls
    git testing.pyt status
    git restore testing.py
-   clear
-   git status
-   history
    remote add origin https://github.com/tusharshivade/gitpractice.git
-   remote -v
-   /usr/bin/python /home/tushar/gitcmd/gitpractice/testing.py
    git remote set-url origin https://tusharshivade:YOUR_TOKEN@github.com/tusharshivade/gitpractice.git
    git remote -v
    git push origin master
-   clear
-   ls
-
-     tushar
-
    git push -u origin master -f
-   git remote remove origin
-   clear
    git rebase -i HEAD~6
    git rebase --continue
-   git status
    git rm --cached git_cmd1.txt.save
-   git status
    git rebase --continue
-   clear
    git rebase --edit-todo
-   git rebase --continue
-   git push origin master
    git  remote add origin https://github.com/tusharshivade/gitpractice
    git push origin master
-   git push -u origin master
-   CLEAR
    git pull
    git pull master
    git pull origin master
-   git push -u origin master
-   clear.  
-git pull origin developer
+   git push -u origin master.  
+   git pull origin develope r
    git add .
    git commit -m "update portfolio"
    git push origin developer
-   git branc
    git branch
    git switch
    git switch master
+   git branch -D glitch
+   git push -u origin glitch
