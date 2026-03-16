@@ -43,3 +43,5 @@
    git switch master
    git branch -D glitch
    git push -u origin glitch
+   git fetch origin
+   git pull origin dev
