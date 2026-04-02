@@ -43,3 +43,5 @@
    git switch master
    git branch -D glitch
    git push -u origin glitch
+   git push origin --delete branch_name
+   
